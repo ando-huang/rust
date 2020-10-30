@@ -1,0 +1,1 @@
+/Users/andrew_huang/Desktop/rust/rust_sandbox/hello/target/debug/hello: /Users/andrew_huang/Desktop/rust/rust_sandbox/hello/src/main.rs /Users/andrew_huang/Desktop/rust/rust_sandbox/hello/src/structs.rs
