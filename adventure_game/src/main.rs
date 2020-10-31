@@ -8,12 +8,11 @@
  *  ***This is the way***
 **/
 mod character;
-use std::env;
+//use std::env;
 
 fn main(){
 
     println!("Welcome to the Rust Adventure game!");
-    //implement some kind of game logic
     let mut character = character::Character::new("Andrew");
     
 }
